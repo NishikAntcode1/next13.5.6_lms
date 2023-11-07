@@ -1,0 +1,12 @@
+npm install uploadthing @uploadthing/react
+
+update .env
+
+app/api/uploadthing/core.ts
+app/api/uploadthing/route.ts
+
+update tailwind.config.ts
+
+update global.css
+
+update next.config.js
